@@ -1,0 +1,24 @@
+{
+  "ServerName": "<<<<<< Rockville >>>>>>",
+  "ServerMessage": "Welcome!\nHave fun!\n ATT Andrei Tizon and Benzumun",
+  "Password": "",
+  "MaxPlayers": 5,
+  "MaxVehiclePerPlayer": 10,
+  "bAllowPlayerToJoinWithCompanyVehicles": true,
+  "bAllowCompanyAIDriver": true,
+  "MaxHousingPlotRentalPerPlayer": 5,
+  "MaxHousingPlotRentalDays": 7,
+  "HousingPlotRentalPriceRatio": 0.1,
+  "bAllowModdedVehicle": false,
+  "NPCVehicleDensity": 1.0,
+  "NPCPoliceDensity": 0.5, 
+  "bEnableHostWebAPIServer": false,
+  "HostWebAPIServerPassword": "",
+  "HostWebAPIServerPort": 8080,
+  "Admins": [ 
+         {
+      "UniqueNetId": "76561198061842166",
+      "Nickname": "Andrei"
+    } 
+]
+}
